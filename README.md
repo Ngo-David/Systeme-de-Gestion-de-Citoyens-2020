@@ -1,5 +1,5 @@
 # Syst-me-de-Gestion-de-Citoyens-2020
-UEVE 2ième année de licence informatique 2020, logiciel utilisé: Eclipse IDE (Java), projet en collaboration avec Sekularac Elvir.
+UEVE 2ième année de licence informatique 2020, logiciel utilisé: Eclipse IDE (Java, Programmation orientée objet), projet en collaboration avec Sekularac Elvir.
 
 Bilan du Projet:  
 Nous avons réussi à faire marcher le programme mais nous avons eu des problèmes pour optimiser parfaitement celui-ci (méthodes répétitifs). 
